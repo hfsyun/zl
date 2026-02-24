@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>寒风殇云小屋</title>
+  
+  <subtitle>寒风殇云个人博客</subtitle>
+  <link href="https://www.hfsyun.fun/atom.xml" rel="self"/>
+  
+  <link href="https://www.hfsyun.fun/"/>
+  <updated>2026-02-24T18:29:56.922Z</updated>
+  <id>https://www.hfsyun.fun/</id>
+  
+  <author>
+    <name>hfsyun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[AI]九九重阳：一面照见文明的明镜</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/oqeky88agon95eki/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/oqeky88agon95eki/</id>
+    <published>2025-10-28T15:41:36.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;九月九日，重阳节如期而至。这个传承千年的传统节日，承载着中华民族对生命的思考、对自然的敬畏、对亲情的珍视。它不仅是一个简单的岁时节日，更是一面映照文明的明镜，折射出中华文化对生命价值的独到理解。&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Win11暂停更新的方法</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/equhchnol1glkna5/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/equhchnol1glkna5/</id>
+    <published>2025-09-14T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;在任务栏【搜索框】中输入【注册表编辑器】，并点击打开。&lt;/li&gt;
+&lt;li&gt;打开注册表后，复制路径【计算机&#92;HKEY_LOCAL_MACHINE&#92;SOFTWARE&#92;Microsoft&#92;WindowsUpdate&#92;UX&#92;Settings】，粘贴至顶部框内回车。&lt;/l</summary>
+        
+      
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="win11" scheme="https://www.hfsyun.fun/tags/win11/"/>
+    
+    <category term="暂停更新" scheme="https://www.hfsyun.fun/tags/%E6%9A%82%E5%81%9C%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub Actions自动化部署Hexo与语雀集成</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/zk62a5m/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/zk62a5m/</id>
+    <published>2025-03-11T16:37:10.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">通过语雀+GitHub Actions+yuque-hexo+Hexo+Github Pages实现云端写作与自动化部署的全链路方案，支持多平台同步与图床优化。</summary>
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="持续集成" scheme="https://www.hfsyun.fun/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
+    
+    <category term="Hexo" scheme="https://www.hfsyun.fun/tags/Hexo/"/>
+    
+    <category term="语雀" scheme="https://www.hfsyun.fun/tags/%E8%AF%AD%E9%9B%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Vercel反代网站</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/vksyo8a2fav9cfvi/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/vksyo8a2fav9cfvi/</id>
+    <published>2024-07-10T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.921Z</updated>
+    
+    
+    <summary type="html">您好, 这里需要密码才能访问.</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://www.hfsyun.fun/categories/Hexo/"/>
+    
+    
+    <category term="Vercel" scheme="https://www.hfsyun.fun/tags/Vercel/"/>
+    
+    <category term="Cloudflare" scheme="https://www.hfsyun.fun/tags/Cloudflare/"/>
+    
+    <category term="反向代理" scheme="https://www.hfsyun.fun/tags/%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>联通光猫获取超密</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/hk93ps9e0927px4i/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/hk93ps9e0927px4i/</id>
+    <published>2024-01-29T14:29:32.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">联通光猫TEWA-870G-C获取管理员密码</summary>
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cloudflare反代的两种方式</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/tnrcm3/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/tnrcm3/</id>
+    <published>2022-10-21T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">您好, 这里需要密码才能访问.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为Hexo添加哔哔动态</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/lyre93/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/lyre93/</id>
+    <published>2022-06-02T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">由于CloudBase开始收费了，现在改用Artitalk</summary>
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="哔哔" scheme="https://www.hfsyun.fun/tags/%E5%93%94%E5%93%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人常用软件</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/mb3rrx/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/mb3rrx/</id>
+    <published>2022-03-24T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">您好, 这里需要密码才能访问.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>制作随机图片API</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/zs33mu/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/zs33mu/</id>
+    <published>2021-11-15T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;本地图片-API&quot;&gt;本地图片 API&lt;/h3&gt;
+&lt;p&gt;新建一个 PHP 文件，在创建一个 img 文件夹，把图片放进去，把 php 文件和 img 文件夹上传到服务器然后访问域名/PHP 文件名就可以啦&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Win10/11 下载及安装</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/dgup4c/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/dgup4c/</id>
+    <published>2021-10-04T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Windows-11-商业版&quot;&gt;Windows 11-商业版&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;文件&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;Windows 11 (business editions), version</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>百事通R3300M短接刷机</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/rdmy4q/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/rdmy4q/</id>
+    <published>2021-06-28T10:19:02.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;准备工具&quot;&gt;准备工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9zL2RYakEtd1Y2eWQ=&quot;&gt;刷机工具&lt;/span&gt;：&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="百视通" scheme="https://www.hfsyun.fun/tags/%E7%99%BE%E8%A7%86%E9%80%9A/"/>
+    
+    <category term="r3300m" scheme="https://www.hfsyun.fun/tags/r3300m/"/>
+    
+    <category term="s905m" scheme="https://www.hfsyun.fun/tags/s905m/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo使用Gulp压缩静态资源</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/icgp1z/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/icgp1z/</id>
+    <published>2021-05-21T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">在hexo中使用gulp4压缩文件</summary>
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="gulp" scheme="https://www.hfsyun.fun/tags/gulp/"/>
+    
+    <category term="hexo" scheme="https://www.hfsyun.fun/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>申请js.org域名</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/dipmpy/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/dipmpy/</id>
+    <published>2020-05-03T06:45:55.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;申请&quot;&gt;申请&lt;/h3&gt;
+&lt;p&gt;注册&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tLw==&quot;&gt;github&lt;/span&gt;,开启 github</summary>
+        
+      
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="js.org" scheme="https://www.hfsyun.fun/tags/js-org/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NPM/Yarn环境变量配置</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/vwb7ff/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/vwb7ff/</id>
+    <published>2019-11-20T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;安装&quot;&gt;安装&lt;/h3&gt;
+&lt;p&gt;下载&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9ub2RlanMub3JnL3poLWNuLw==&quot;&gt;nodejs&lt;/span&gt;后，在安装 nodejs</summary>
+        
+      
+    
+    
+    
+    <category term="随笔集" scheme="https://www.hfsyun.fun/categories/essays/"/>
+    
+    
+    <category term="npm" scheme="https://www.hfsyun.fun/tags/npm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo写作模板</title>
+    <link href="https://www.hfsyun.fun/posts/yuque/dxnb0t/"/>
+    <id>https://www.hfsyun.fun/posts/yuque/dxnb0t/</id>
+    <published>2016-12-31T16:00:00.000Z</published>
+    <updated>2026-02-24T18:29:56.922Z</updated>
+    
+    
+    <summary type="html">您好, 这里需要密码才能访问.</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
